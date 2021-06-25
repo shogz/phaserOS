@@ -1,0 +1,6 @@
+8 x LED GREEN 0603 SMD  (e.g. Digikey Part no. 1497-1215-1-ND )
+8 x LED RED 0603 SMD  (e.g. Digikey Part no. 350-4368-1-ND  )
+
+!Attention until Version 2 of the LED Board the leds have to be equal in brightness
+
+1 x STP16CPC26MTR  IC LED DRIVER LIN DIM 90MA 24SO (Digikey Part no. 497-11984-1-ND )
